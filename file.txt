@@ -1,3 +1,6 @@
 working for git
 adding second line
 adding 3rd line
+practice for git
+git adding file
+adding 4th file
